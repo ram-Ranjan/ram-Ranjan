@@ -15,7 +15,7 @@ I’ve also worked with Node.js and Java in full-stack projects integrating APIs
 - 🚀 **Backend Development** – FastAPI, Node.js, RESTful APIs  
 - ⚙️ **Python Engineering** – async programming, concurrency, testing  
 - 🤖 **Machine Learning & CV** – scikit-learn, OpenCV, data preprocessing  
-- 🧩 **Dev Practices** – Git branching, CI/CD, linting, environment management  
+- 🧩 **Dev Practices** – Git branching, CI/CD, environment management  
 
 ---
 
@@ -47,9 +47,8 @@ I’ve also worked with Node.js and Java in full-stack projects integrating APIs
 ---
 
 ### 🧰 Development Practices
-- Python virtual environments (`venv`, `poetry`)  
+- Python virtual environment (`venv`)  
 - Async API integrations (`asyncio`, `aiohttp`)  
-- Code quality tools (`ruff`, `pylint`, `black`)  
 - Testing with `pytest` and API testing via Postman  
 - Git branching, commits, and pull request workflows  
 
