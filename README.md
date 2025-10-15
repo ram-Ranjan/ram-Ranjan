@@ -4,7 +4,10 @@
 <h3 align="left">About Me</h3>
 <p>
 I'm a backend and AI developer currently pursuing my M.Tech in Artificial Intelligence at NIT Silchar.  
-I build clean, modular, and performant systems using <b>Python</b>, focusing on <b>async APIs</b>, <b>data pipelines</b>, and <b>AI-driven automation</b>.  
+  
+I build clean, modular, and performant systems using <b>Python</b>,
+focusing on <b>async APIs</b>, <b>data pipelines</b>, and <b>AI-driven automation</b>.  
+
 I enjoy working with <b>FastAPI, asyncio, aiohttp, OpenCV</b>, and clean development tools like <b> Pytest</b>.  
 I’ve also worked with Node.js and Java in full-stack projects integrating APIs and databases.
 </p>
