@@ -1,18 +1,70 @@
-<!-- # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+there+%F0%9F%91%8B+This+is+Ranjan+Kumar;Self+thought+java+Developer+!!) -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+there+%F0%9F%91%8B+This+is+Ranjan+Kumar;Self+taught+Backend+Developer+!!;JavaScipt+and+Java+Developer+!!;!)
-<h3 align="left">I'm a NodeJs & Java developer from India. I build applications/API's in ExpressJs. You can often see me exploring new technologies, I do enjoy working with Backend Technologies like Node and Express and also well versed in Spring Boot.  Take a look at my repositories - some of my best works are pinned here..</h3>
-- 📫 How to reach me **ramranjan3107@gmail.com**
+<!-- Typing SVG Header -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+there+%F0%9F%91%8B+I'm+Ranjan+Kumar;Python+Backend+and+AI+Developer;Async+API+Enthusiast+%7C+Clean+Code+Advocate)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">About Me</h3>
+<p>
+I'm a backend and AI developer currently pursuing my M.Tech in Artificial Intelligence at NIT Silchar.  
+I build clean, modular, and performant systems using <b>Python</b>, focusing on <b>async APIs</b>, <b>data pipelines</b>, and <b>AI-driven automation</b>.  
+I enjoy working with <b>FastAPI, asyncio, aiohttp, OpenCV</b>, and clean development tools like <b>Poetry, Ruff, Pytest</b>.  
+I’ve also worked with Node.js and Java in full-stack projects integrating APIs and databases.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <img src="https://www.svgrepo.com/show/376337/node-js.svg" width="60" height="55"/><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </p>
+---
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ram-Ranjan&show_icons=true&locale=en&layout=compact" alt="ram-Ranjan" /></p> 
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram-Ranjan&show_icons=true&locale=en" alt="ram-Ranjan" /></p>
+### 🧠 Core Focus
+- 🚀 **Backend Development** – FastAPI, Node.js, RESTful APIs  
+- ⚙️ **Python Engineering** – async programming, concurrency, testing  
+- 🤖 **Machine Learning & CV** – scikit-learn, OpenCV, data preprocessing  
+- 🧩 **Dev Practices** – Git branching, CI/CD, linting, environment management  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-Ranjan&" alt="ram-Ranjan" /></p>-->
+---
 
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
+</p>
+
+---
+
+### 📚 Featured Projects
+- 🧾 **[Expense Tracker (Node.js + MySQL)](https://github.com/ram-Ranjan/Expense-Tracker)**  
+  RESTful expense tracking app with Razorpay integration and AWS S3-based analytics.
+
+- 🧠 **[Human Activity Recognition (ML)](https://github.com/ram-Ranjan/HAR-Project)**  
+  Built end-to-end ML pipeline for activity recognition using sensor data and model evaluation.
+
+- 🎨 **[Cartoonify Filter (OpenCV)](https://github.com/ram-Ranjan/Cartoonify-Filter)**  
+  Real-time cartoon and sketch filter pipeline using adaptive thresholding and bilateral filtering.
+
+---
+
+### 🧰 Development Practices
+- Python virtual environments (`venv`, `poetry`)  
+- Async API integrations (`asyncio`, `aiohttp`)  
+- Code quality tools (`ruff`, `pylint`, `black`)  
+- Testing with `pytest` and API testing via Postman  
+- Git branching, commits, and pull request workflows  
+
+---
+
+### 📫 Connect with Me
+📧 **ramranjan3107@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/ranjan-kumar-6618bb163/) | [GitHub](https://github.com/ram-Ranjan)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ram-Ranjan&show_icons=true&theme=github_dark&hide_border=true" alt="Ranjan's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ram-Ranjan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
