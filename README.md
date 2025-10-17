@@ -1,5 +1,5 @@
 <!-- Typing SVG Header -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+there+%F0%9F%91%8B+I'm+Ranjan+Kumar;Python+Backend+and+AI+Developer;Async+API+Enthusiast+%7C+Clean+Code+Advocate)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+there+%F0%9F%91%8B+I'm+Ranjan+Kumar;Python+Backend+and+AI+Developer)
 
 <h3 align="left">About Me</h3>
 <p>
