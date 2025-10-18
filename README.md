@@ -44,8 +44,7 @@ I’ve also worked with Node.js and Java in full-stack projects integrating APIs
 - 🧠 **[Human Activity Recognition (ML)](https://github.com/ram-Ranjan/HAR-Project)**  
   Built end-to-end ML pipeline for activity recognition using sensor data and model evaluation.
 
-- 🎨 **[Cartoonify Filter (OpenCV)](https://github.com/ram-Ranjan/Cartoonify-Filter)**  
-  Real-time cartoon and sketch filter pipeline using adaptive thresholding and bilateral filtering.
+
 
 ---
 
