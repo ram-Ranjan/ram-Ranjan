@@ -41,8 +41,8 @@ I’ve also worked with Node.js and Java in full-stack projects integrating APIs
 - 🧾 **[Expense Tracker (Node.js + MySQL)](https://github.com/ram-Ranjan/Expense-Tracker)**  
   RESTful expense tracking app with Razorpay integration and AWS S3-based analytics.
 
-- 🧠 **[Human Activity Recognition (ML)](https://github.com/ram-Ranjan/HAR-Project)**  
-  Built end-to-end ML pipeline for activity recognition using sensor data and model evaluation.
+- 🧠 **[Hindi Spam or Ham Classifier (ML)](https://github.com/ram-Ranjan/Spam-Jupyter-Notebook)**  
+  Built ML pipeline for for Hindi-Spam Classifier.
 
 
 
