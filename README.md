@@ -15,7 +15,7 @@ I’ve also worked with Node.js and Java in full-stack projects integrating APIs
 ---
 
 ### 🧠 Core Focus
-- 🚀 **Backend Development** – FastAPI, Node.js, RESTful APIs  
+- 🚀 **Backend Development** – Node.js, RESTful APIs  
 - ⚙️ **Python Engineering** – async programming, concurrency, testing  
 - 🤖 **Machine Learning & CV** – scikit-learn, OpenCV, data preprocessing  
 - 🧩 **Dev Practices** – Git branching, CI/CD, environment management  
